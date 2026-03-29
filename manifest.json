@@ -1,0 +1,40 @@
+{
+  "name": "O Casarão Abandonado - Escape Room",
+  "short_name": "Escape Room",
+  "description": "Jogo de escape room com desafios de raciocínio lógico",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1a1a1a",
+  "theme_color": "#ff6432",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["games"],
+  "screenshots": [
+    {
+      "src": "assets/images/tela-inicial.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
